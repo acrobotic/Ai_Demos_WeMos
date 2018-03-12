@@ -1,14 +1,16 @@
-# Ai_Demos_Wemos
+# Ai_Demos_ESP8266
 
-Example code for using the WeMos family of development boards for the ESP8266.
+Example code for using the ESP8266 Development Board with various electronic and
+mechanical components.
 
 ## Description
 
-For more details, check out the companion tutorials:
+For more details, check out the tutorial page at:
 
-    * http://learn.acrobotic.com/
+    * http://learn.acrobotic.com/tutorials/post/esp8266-iot-weather-station
+    * http://learn.acrobotic.com/tutorials/post/esp8266-oled-display-using-i2c
 
-Developed by MakerBro for ACROBOTIC Industries.  Please consider buying 
+Developed by S.Parada for ACROBOTIC Industries.  Please consider buying 
 products from us to help fund future Open-Source projects like this! We'll
 always put our best effort in every project, and release all our design 
 files and code for you to use. 
