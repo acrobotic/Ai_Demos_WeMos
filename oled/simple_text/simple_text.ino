@@ -75,6 +75,7 @@ void loop()
   delay(10000);
 }
 
+// Test string to display
 void displayIP()
 {
   String ip_address = WiFi.localIP().toString();
