@@ -3,7 +3,7 @@
   Author: Makerbro
   Platforms: ESP826 (WeMos)
   Language: C++/Arduino
-  File: simple_text.ino
+  File: Simple_Text.ino
   ------------------------------------------------------------------------------
   Description: 
   Code for YouTube video demonstrating how to use the WeMos D1 Mini OLED Shield
